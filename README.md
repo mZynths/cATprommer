@@ -1,6 +1,8 @@
 # Bienvenido a cATprommer
 Hola! Somos Dana y Salvador, sus compañeros y desarrolladores de este proyecto.
 
+[Llevame al instalador](#install)
+
 # Que es cATprommer?
 Desarrollamos un programador para la memoria EEPROM AT28C64 diseñado para agilizar la clase de Arquitectura y Organización de Computadoras.
 
@@ -15,6 +17,7 @@ Nuestro proyecto incluye dos partes, una de hardware y una de software:
 | - | - |
 | <img src='https://github.com/mZynths/cATprommer/assets/30999576/f8f8c275-d7ef-4d56-9067-140f72535b92' width='300'> | <img src='https://github.com/mZynths/cATprommer/assets/30999576/80e47285-0c42-4ab4-8ca3-0c3757fb488b' width='300'> |
 
+<a name="install"/>
 # Como instalar:
 1. Instala los drivers para tu Arduino Nano [Link a las instrucciones de instalación](https://www.geekfactory.mx/tutoriales-arduino/driver-ch340-para-arduino-chinos-o-genericos/)
 2. Descarga e instala la interfaz grafica [Haz click aquí para descargarla](https://github.com/mZynths/cATprommer/releases/latest/download/cATprommer_GUI_1.0.0_x64.msi)
