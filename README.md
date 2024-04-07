@@ -16,9 +16,9 @@ Nuestro proyecto incluye dos partes, una de hardware y una de software:
 | <img src='https://github.com/mZynths/cATprommer/assets/30999576/f8f8c275-d7ef-4d56-9067-140f72535b92' width='300'> | <img src='https://github.com/mZynths/cATprommer/assets/30999576/80e47285-0c42-4ab4-8ca3-0c3757fb488b' width='300'> |
 
 # Como se instala?
-1. Descargar e instalar la interfaz grafica [Haz click aquí para descargarla](https://github.com/mZynths/cATprommer/releases)
-2. Instala los drivers para tu Arduino Nano [Link a las instrucciones de instalación](https://www.geekfactory.mx/tutoriales-arduino/driver-ch340-para-arduino-chinos-o-genericos/)
-3. Listo, tienes todo listo para estrenar tu programador!
+1. Descargar e instalar la interfaz grafica [Haz click aquí para descargarla](https://github.com/mZynths/cATprommer/releases/latest)
+3. Instala los drivers para tu Arduino Nano [Link a las instrucciones de instalación](https://www.geekfactory.mx/tutoriales-arduino/driver-ch340-para-arduino-chinos-o-genericos/)
+4. Listo, tienes todo listo para estrenar tu programador!
 
 # Como se usa?
 1. Conecta el Arduino y la memoria en la PCB como se muestra en la imagen:
