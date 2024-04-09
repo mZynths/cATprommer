@@ -15,7 +15,8 @@ Nuestro proyecto incluye dos partes, una de hardware y una de software:
 
 | **Hardware** | **Software** |
 | - | - |
-| <img src='https://github.com/mZynths/cATprommer/assets/30999576/f8f8c275-d7ef-4d56-9067-140f72535b92' width='300'> | <img src='https://github.com/mZynths/cATprommer/assets/30999576/80e47285-0c42-4ab4-8ca3-0c3757fb488b' width='300'> |
+| <img src='https://github.com/mZynths/cATprommer/assets/30999576/73674643-1fe8-4c1e-b659-ea280684539e' width='300'> | <img src='https://github.com/mZynths/cATprommer/assets/30999576/80e47285-0c42-4ab4-8ca3-0c3757fb488b' width='300'> |
+
 
 <a name="install"></a>
 # Como instalar:
