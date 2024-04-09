@@ -35,8 +35,10 @@ Nuestro proyecto incluye dos partes, una de hardware y una de software:
 6. Haz click en "Buscar" y selecciona un archivo .hex:
 <img src='https://github.com/mZynths/cATprommer/assets/30999576/c9e469e1-b7c4-4200-bfb5-342e1deed4e9' width='700'>
 
-7. Haz click en "Escribir" y espera el mensaje "EEPROM programada con exito":
+7. Haz click en "Escribir":
 <img src='https://github.com/mZynths/cATprommer/assets/30999576/c15129d6-2240-40ff-a632-86d173cd5fbe' width='700'>
 
-8. Listo! Ya puedes desconectar tu memoria.
+8. Antes desconectar tu memoria, espera el mensaje "EEPROM programada con exito"
+
+9. Listo! Ya puedes desconectar tu memoria.
 
