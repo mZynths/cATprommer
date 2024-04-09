@@ -21,7 +21,7 @@ Nuestro proyecto incluye dos partes, una de hardware y una de software:
 <a name="install"></a>
 # Como instalar:
 1. Instala los drivers para tu Arduino Nano [Link a las instrucciones de instalación](https://www.geekfactory.mx/tutoriales-arduino/driver-ch340-para-arduino-chinos-o-genericos/)
-2. Descarga e instala la interfaz grafica [Haz click aquí para descargarla](https://github.com/mZynths/cATprommer/releases/latest/download/cATprommer_GUI_1.0.0_x64.msi)
+2. Descarga e instala la interfaz grafica [Haz click aquí para descargarla](https://github.com/mZynths/cATprommer/releases/latest/download/cATprommer_GUI_1.0.1_x64.msi)
 3. Listo, tienes todo listo para estrenar tu programador!
 
 # Como cargar un .hex utilizando el programador:
