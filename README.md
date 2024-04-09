@@ -39,7 +39,7 @@ Nuestro proyecto incluye dos partes, una de hardware y una de software:
 7. Haz click en "Escribir":
 <img src='https://github.com/mZynths/cATprommer/assets/30999576/c15129d6-2240-40ff-a632-86d173cd5fbe' width='700'>
 
-8. Antes desconectar tu memoria, espera el mensaje "EEPROM programada con exito"
+8. Antes desconectar tu memoria, espera el mensaje "EEPROM programada con éxito"
 
 9. Listo! Ya puedes desconectar tu memoria.
 
